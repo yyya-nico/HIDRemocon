@@ -1,0 +1,8 @@
+HIDRemocon original source code is dedicated to the public domain under
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+The copied TVTest SDK files retain their original notices and permissions.
+See sdk/TVTestSDK.txt.
+
+Consumer Usage names were imported from the user-provided
+hid_consumer_decoder_webhid.html, which cites USB-IF HID Usage Tables.
